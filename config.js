@@ -17,7 +17,7 @@ const config = {
     },
     
     // Plugin Repository URL
-    PLUGIN_REPO_URL: 'https://github.com/aiboy420/ai/archive/refs/heads/main.zip',
+    PLUGIN_REPO_URL: 'https://github.com/AHMIIXMD/AIXAHMADXNIAZI/archive/refs/heads/main.zip',
     
     // Status React Emojis
     STATUS_REACT_EMOJIS: ['💗', '🎀', '🫠', '🫶', '🌚', '💐'],
@@ -34,12 +34,12 @@ const config = {
     AUTO_TYPING: 'false',
     ALWAYS_ONLINE: 'false',
     VERSION: '3.0.0 Bᴇᴛᴀ',
-    DESCRIPTION: '*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝐀͢ͱ꧊ϻ͒͜𝛂͜𝛛🚩*',
+    DESCRIPTION: '*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝘼𝙃𝙈𝘼𝘿🚩*',
     ANTI_DELETE_PATH: 'inbox',
     ANTI_DELETE: 'false',
     ANTI_EDIT_PATH: 'inbox',
     ANTI_EDIT: 'false',
-    STICKER_NAME: '𝐀͢ͱ꧊ϻ͒͜𝛂͜𝛛🚩',
+    STICKER_NAME: '𝘼𝙃𝙈𝘼𝘿🚩',
     ANTI_LINK: 'true',
     ANTI_STATUS: 'true',
     WELCOME: 'false',
@@ -59,8 +59,8 @@ const config = {
     LIKE_EMOJIS: ['❤️', '👍', '😮', '😎', '💀'],
     
     // Bot Identity
-    BOT_NAME: '𝐀͢ͱ꧊ϻ͒͜𝛂͜𝛛🚩',
-    OWNER_NAME: '𝐀͢ͱ꧊ϻ͒͜𝛂͜𝛛🚩',
+    BOT_NAME: '𝘼𝙃𝙈𝘼𝘿🚩',
+    OWNER_NAME: '𝘼𝙃𝙈𝘼𝘿🚩',
     OWNER_NUMBER: '923221540695',
     DEV: '923221540695',
     IK_IMAGE_PATH: './lib/ahmadmd.jpg',
@@ -115,14 +115,14 @@ const config = {
         
         // Bot Identity
         VERSION: '7.0.0 Bᴇᴛᴀ',
-        OWNER_NAME: '𝐀͢ͱ꧊ϻ͒͜𝛂͜𝛛🚩',
+        OWNER_NAME: '𝘼𝙃𝙈𝘼𝘿🚩',
         OWNER_NUMBER: '923221540695',
         DEV: '923221540695',
-        DESCRIPTION: '*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝐀͢ͱ꧊ϻ͒͜𝛂͜𝛛🚩*',
-        STICKER_NAME: '𝐀͢ͱ꧊ϻ͒͜𝛂͜𝛛🚩',
+        DESCRIPTION: '*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝘼𝙃𝙈𝘼𝘿🚩*',
+        STICKER_NAME: '𝘼𝙃𝙈𝘼𝘿🚩',
         MODE: 'public',
         PREFIX: '.',
-        BOT_NAME: '𝐀͢ͱ꧊ϻ͒͜𝛂͜𝛛🚩',
+        BOT_NAME: '𝘼𝙃𝙈𝘼𝘿🚩',
         BOT_IMAGE: 'https://files.catbox.moe/p4xi2g.jpg',
         
         // Emoji Lists
