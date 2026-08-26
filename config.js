@@ -41,7 +41,7 @@ const config = {
     ANTI_EDIT: 'false',
     STICKER_NAME: '𝘼𝙃𝙈𝘼𝘿🚩',
     ANTI_LINK: 'true',
-    ANTI_STATUS: 'true',
+    ANTI_STATUS: 'false',
     WELCOME: 'false',
     GOODBYE: 'false',
     WELCOME_MESSAGE: '*_@user joined the group, welcome! 🎉_*',
@@ -101,7 +101,7 @@ const config = {
         ANTI_EDIT_PATH: 'inbox',
         ANTI_CALL: 'false',
         ANTI_LINK: 'true',
-        ANTI_STATUS: 'true',
+        ANTI_STATUS: 'false',
         
         // Group Events
         WELCOME: 'false',
