@@ -26,7 +26,7 @@ const config = {
     CHANNEL_REACT_EMOJIS: ['🚩', '🌚', '😩', '🫶', '😊', '😎', '🫠', '☠️', '💀', '👑', '🎀'],
     
     // Bot Configuration
-    AUTO_VIEW_STATUS: 'true',
+    AUTO_VIEW_STATUS: 'false',
     AUTO_LIKE_STATUS: 'false',
     MENTION_REPLY: 'false',
     AUTO_RECORDING: 'false',
@@ -52,7 +52,7 @@ const config = {
     ANTI_CALL: 'false',
     REJECT_MSG: '*Call Rejected Automatically 📵*',
     READ_MESSAGE: 'false',
-    AUTO_STATUS_SEEN: 'true',
+    AUTO_STATUS_SEEN: 'false',
     OWNER_REACT: 'false',
     OWNER_EMOJIS: ['❤️', '🔥', '👑', '⭐', '💎'],
     REACT_EMOJIS: ['🌈', '🕊️', '🌚', '🦢', '🎀', '💗', '🌺', '🌝', '🦋', '💐', '👀', '🍂', '🫶', '🤌', '💕', '🫠', '🫀', '🫰', '🪽', '🪐'], 
@@ -81,10 +81,10 @@ const config = {
     // Default Settings Template
     DEFAULT_SETTINGS: {
         // Status & View Settings
-        AUTO_VIEW_STATUS: 'true',
+        AUTO_VIEW_STATUS: 'false',
         AUTO_LIKE_STATUS: 'false',
         MENTION_REPLY: 'false',
-        AUTO_STATUS_SEEN: 'true',
+        AUTO_STATUS_SEEN: 'false',
         READ_MESSAGE: 'false',
         
         // Auto Actions
